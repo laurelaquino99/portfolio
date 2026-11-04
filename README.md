@@ -12,6 +12,9 @@
 ### Personal Website
 [View Project Overview](./personal-website.md)
 
+### Adversarial Inverse Reinforcement Learning
+[View Project Overview](./adversarial-irl.md)
+
 ### Audio Content Recommendation
 [View Project Overview](./audio-content-recommendation.md)
 
