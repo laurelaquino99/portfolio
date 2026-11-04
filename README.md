@@ -12,5 +12,8 @@
 ### Personal Website
 [View Project Overview](./personal-website.md)
 
+### Audio Content Recommendation
+[View Project Overview](./audio-content-recommendation.md)
+
 ### Service Intelligence Demo
 [View Project Overview](./service_intelligence_demo.md)
